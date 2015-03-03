@@ -1,0 +1,19 @@
+﻿Build started 3/28/2014 12:30:12 AM.
+     1>Project "C:\2014 Spring\COMP 116 Data Structure\Labs\Lab10\Lab10\Lab10.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Lab10.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lab10.cpp jesse.cpp
+         jesse.cpp
+     1>c:\2014 spring\comp 116 data structure\labs\lab10\lab10\jesse.h(17): error C2440: 'return' : cannot convert from 'const char [101]' to 'char *'
+                 Conversion loses qualifiers
+     1>c:\2014 spring\comp 116 data structure\labs\lab10\lab10\jesse.cpp(67): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+         Generating Code...
+         Compiling...
+         Lab10.cpp
+     1>c:\2014 spring\comp 116 data structure\labs\lab10\lab10\jesse.h(17): error C2440: 'return' : cannot convert from 'const char [101]' to 'char *'
+                 Conversion loses qualifiers
+         Generating Code...
+     1>Done Building Project "C:\2014 Spring\COMP 116 Data Structure\Labs\Lab10\Lab10\Lab10.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.92

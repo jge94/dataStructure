@@ -1,0 +1,11 @@
+﻿Build started 3/5/2014 3:56:28 PM.
+     1>Project "C:\2014 Spring\COMP 116 Data Structure\Labs\Lab7\Lab7\Lab7.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Lab7.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\2014 spring\comp 116 data structure\labs\lab7\lab7\main.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Debug\Lab7.pch': No such file or directory
+     1>Done Building Project "C:\2014 Spring\COMP 116 Data Structure\Labs\Lab7\Lab7\Lab7.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.86

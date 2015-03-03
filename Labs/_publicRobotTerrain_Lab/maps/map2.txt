@@ -1,0 +1,5 @@
+Terrain: sample map
+.....
+r.G.r
+rrr..
+....r
