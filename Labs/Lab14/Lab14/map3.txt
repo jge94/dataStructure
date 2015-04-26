@@ -1,5 +1,0 @@
-Terrain: sample map
-.Gh..
-rr..r
-rrr..
-....h
